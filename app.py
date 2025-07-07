@@ -16,8 +16,8 @@ logger = logging.getLogger(__name__)
 
 # YouTube API Configuration
 # Replace these with valid YouTube Data API v3 keys from Google Cloud Console
-YOUTUBE_API_KEY_1 = "AIzaSyBUPDGWBDH0j8yKdu28jojwVBsdPqGyP24"  # Replace with your first valid API key
-YOUTUBE_API_KEY_2 = "AIzaSyARtxSJ2nDFaNkurN9nYPa2ahMdD-DojYY"  # Replace with your second valid API key
+YOUTUBE_API_KEY_1 = "AIzaSyBBWdMrk-TYsM7tJ-IF4ApE_h8HSQUJaVo"  # Replace with your first valid API key
+YOUTUBE_API_KEY_2 = "AIzaSyAO5gr1xcyVGXW6KO-9iTso49vDyqvTZ60"  # Replace with your second valid API key
 CHANNEL_ID = "UCB-mfYAd3oJLEkoMxjRAxbg"
 
 class YouTubeCommentsService:
