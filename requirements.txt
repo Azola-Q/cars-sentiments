@@ -11,3 +11,4 @@ requests==2.31.0
 textblob==0.17.1
 python-dateutil==2.8.2
 gunicorn==21.2.0
+python-dotenv==1.0.1
